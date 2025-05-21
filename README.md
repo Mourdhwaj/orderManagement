@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Order Processing System
 
 A full-stack application for managing customer orders in an E-commerce scenario, featuring a Spring Boot backend and a React frontend. Supports order creation, status tracking, listing, updating, and cancellation, with a scheduled job for automatic status updates.
@@ -141,3 +142,6 @@ mvn test
 - CORS, error handling, and basic validation are implemented.
 - The backend is stateless and easy to extend for database support.
 - Please see `API_EXAMPLES.md` for more sample requests and responses. 
+=======
+# orderManagement
+>>>>>>> b0aed2110144b53def8047048825f24cb676b9d2
