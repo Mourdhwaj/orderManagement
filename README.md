@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-commerce Order Processing System
 
 A full-stack application for managing customer orders in an E-commerce scenario, featuring a Spring Boot backend and a React frontend. Supports order creation, status tracking, listing, updating, and cancellation, with a scheduled job for automatic status updates.
